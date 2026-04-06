@@ -73,24 +73,19 @@ src/
 
 ### Installation
 
-1. Clone the repository:
-```bash
-git clone < repository-url >
-cd < project-folder >
-```
 
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 npm install
 ```
 
-3. Generate Prisma client and run migrations:
+2. Generate Prisma client and run migrations:
 ```bash
 npm run prisma:generate
 npm run prisma:migrate
 ```
 
-4. Seed the database with sample data:
+3. Seed the database with sample data:
 ```bash
 npm run prisma:seed
 ```
@@ -100,7 +95,7 @@ Or use the combined command:
 npm run db:setup
 ```
 
-5. Start the development server:
+4. Start the development server:
 ```bash
 npm run dev
 ```
