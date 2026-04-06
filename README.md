@@ -271,5 +271,4 @@ npm run build
 npm start
 ```
 
-//CHANGE IN ENV KEY REQ 
-// node module and packaged included because project pushed from github dekstop
+//CHANGE IN ENV KEY REQ ,  The node modules and libraries are included because the project was pushed from GitHub Desktop.
